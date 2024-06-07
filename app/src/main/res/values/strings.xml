@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="enter_task_details">Enter task details</string>
+    <string name="save">Save</string>
+    <string name="add_task">Add Task</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_description">Enter description</string>
+    <string name="enter_duration">Enter duration</string>
+    <string name="enter_date">Enter date</string>
+    <string name="enter_context">Enter context</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="duration">Duration</string>
+    <string name="date">Date</string>
+    <string name="context">Context</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="web_link">Web link</string>
+    <string name="enter_web_link">Enter web link</string>
+    <string name="open_the_link">Open the link</string>
+    <string name="open_link">Open Link</string>
+    <string name="delete">Delete</string>
+</resources>
